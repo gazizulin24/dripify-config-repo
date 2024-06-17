@@ -1,0 +1,3 @@
+cloud-config-2:
+  test-int: 2
+  test-str: "Hello from cloud config to service 2!"
