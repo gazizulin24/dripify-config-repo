@@ -1,1 +1,1 @@
-# dripify-config-repo
+# dripify-config-server
